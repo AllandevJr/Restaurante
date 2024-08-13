@@ -1,0 +1,49 @@
+/*fomatações*/
+
+body{
+  font-size: 1em;
+  font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+  background-color: #d1cece;
+
+}
+.App{
+  text-align: center;
+  background-color: #333;
+}
+
+.vermelho{
+  color: red;
+}
+
+#Rest{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+  color: white;
+  padding: 10px;
+  margin: 10 px;
+}
+
+#lista{
+  text-align: justify;
+  color: #333;
+  padding: 10px;
+}
+a{
+  text-decoration: none;
+}
+
+#lista a:link, #lista a:visited{
+  color: #fff;
+  padding: 12px;
+}
+
+#lista a:hover{
+  color: #333;
+  background-color: #fff;
+}
+
+.cadastro{
+  text-align: center;
+  padding: 2px;
+  float: inline-end;
+}
